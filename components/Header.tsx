@@ -52,7 +52,7 @@ const Header = () => {
                     </Sheet>
                     <Link href="/" className="ml-4 lg:ml-0">
                         <h1 className="text-xl font-bold">
-                            STORE NAME
+                            CAMERA STORE
                         </h1>
                     </Link>
                 </div>
